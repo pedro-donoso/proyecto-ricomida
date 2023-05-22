@@ -1,0 +1,80 @@
+.logo{
+font-family: 'Lobster';
+font-size: 37pt;
+font-weight: 700;
+}
+
+.navbar-nav{
+  position: absolute;
+  left: 70%;
+}
+
+.hero{
+  font-family: 'Cabin',bold;
+  font-weight: 700;
+  font-size: 40pt;
+  width: 100%;
+  color: #373A3C;
+  opacity: 100%;
+}
+
+hr{
+  color:#000000;
+}
+
+.btn-hero{
+  color:#373A3C;
+}
+
+.carousel-indicators [data-bs-target] {
+  width: 1rem;
+  height: 1rem;
+  border: white;
+  background: #373A3C;
+  border-radius: 50%;
+}
+
+#subrayado{
+  width: 7rem;
+}
+
+#listado{
+  list-style: none;
+}
+
+.card-text{
+  text-align: justify;
+
+
+}
+
+#recetas{
+  text-align: center;
+}
+
+#suscripcion {
+text-align: center;
+font-family: Cabin;
+font-style: bold;
+font-size: 40pt;
+padding-top: 150pt;
+padding-bottom: 3033.5pt;
+background: #DC3545;
+color: #ffffff;
+padding: 150pt;
+}
+
+#negrita{
+font-family: 'Lobster',cursive;
+}
+
+footer{
+  background-color: #373A3C;
+  height: 127pt;
+  padding-top: 41pt;
+  padding-bottom: 38pt;
+  text-align: center;
+  font-family: 'Lobster';
+  color: #ffffff;
+  font-size: 37pt;
+}
