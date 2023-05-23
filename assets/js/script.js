@@ -18,3 +18,8 @@ $(document).ready(function () {
         });
     });
 });
+
+// remover clases
+$(".remover").on("click", function () {
+    $(".removido").toggle();
+});
