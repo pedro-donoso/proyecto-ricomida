@@ -9,3 +9,12 @@ $(document).ready(function () {
         alert('El correo fue enviado correctamente...');
     });
 });
+
+// cambio de color
+$(document).ready(function () {
+    $(".cambio").dblclick(function () {
+        $(this).css({
+            "color": "red"
+        });
+    });
+});
